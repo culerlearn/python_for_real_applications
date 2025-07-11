@@ -60,7 +60,3 @@ else:
     else:
         print("Please subscribe to access premium content.")
 print()
-
-# 8) Wrap‐up prompt
-print(
-    "✅ End of Lesson 2.1 demo. Try changing values and expressions to see how boolean logic drives your program flow!")

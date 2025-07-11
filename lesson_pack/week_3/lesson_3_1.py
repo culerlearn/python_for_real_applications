@@ -62,7 +62,3 @@ print(" ▶ min(primes)      =", min(primes))
 print(" ▶ max(primes)      =", max(primes))
 print(" ▶ primes.count(3)  =", primes.count(3))
 print(" ▶ primes.index(7)  =", primes.index(7), "\n")
-
-# 10) Wrap‐up prompt
-print(
-    "✅ End of Lesson 3.1 demo. Try creating your own lists and using these methods to get comfortable with list basics!")

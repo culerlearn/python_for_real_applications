@@ -62,6 +62,3 @@ print(" ▶ keys()    →", list(person.keys()))
 print(" ▶ values()  →", list(person.values()))
 print(" ▶ items()   →", list(person.items()))
 print(" ▶ 'email' in person →", "email" in person, "\n")
-
-# 10) Wrap-up prompt
-print("✅ End of Lesson 3.2 demo. Try creating your own dictionaries and practice safe access with get() or try/except!")

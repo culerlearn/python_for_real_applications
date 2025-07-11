@@ -44,6 +44,3 @@ print(f" c *= 2       → c = {c}\n")
 # 7) Mixing types and error demonstration
 #    Uncommenting the following line will raise TypeError
 # print("a + b as strings: " + a_str + b_str)
-
-# 8) Wrap‐up prompt
-print("✅ End of Lesson 1.3 demo. Try changing inputs and re-running to see how each operator behaves!")

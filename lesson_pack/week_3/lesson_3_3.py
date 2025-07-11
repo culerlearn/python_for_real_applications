@@ -74,9 +74,3 @@ print(" ▶ Saved array to array.npy")
 # Load binary
 loaded_npy = np.load("array.npy")
 print(" ▶ Loaded from array.npy:\n", loaded_npy, "\n")
-
-# 6) Wrap-up prompt
-print(
-    "✅ End of Lesson 3.3 demo. Check your working directory for example.txt (if created), output.txt, data.csv, array.txt, and array.npy.")
-print(
-    "   Encourage students to open these files and modify the scripts—for example, change delimiters, add more rows, or save different NumPy array shapes!")

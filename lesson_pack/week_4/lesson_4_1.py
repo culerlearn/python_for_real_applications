@@ -107,7 +107,7 @@ plt.tight_layout()
 plt.show()
 
 # 5) Wrap-up prompt
-print("✅ End of Lesson 4.1 demo. Ask students:")
+print("End of Lesson 4.1 demo. Ask students:")
 print(" • Which chart best shows seasonal trends?")
-print(" • How would you visualize profit = sales – expenses?")
+print(" • How would you visualise profit = sales – expenses?")
 print(" • Try adding a new dataset or changing markers/styles!")

@@ -71,7 +71,7 @@ print(f"Score = {score} → Grade = {grade}\n")
 
 # 9) Mixing types (and errors)
 # Uncommenting the next line will raise a TypeError:
-# print("Age plus name:", age + user_name)
+print("Age plus name:", age + user_name)
 
-# 10) Wrap up
-print("▶︎ End of Lesson 1.2 demo. Feel free to modify and explore!")
+# 10) Wrap‐up prompt
+print("✅ End of Lesson 1.2. Try out new inputs to see results!")

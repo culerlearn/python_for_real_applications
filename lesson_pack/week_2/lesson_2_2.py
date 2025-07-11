@@ -76,7 +76,3 @@ print()
 print("List comprehension vs. loop:")
 squares = [i ** 2 for i in range(6)]
 print("  squares =", squares, "\n")
-
-# 11) Wrap-up
-print(
-    "✅ End of Lesson 2.2 demo. Experiment by changing the collections and loop logic to see how each pattern behaves!")

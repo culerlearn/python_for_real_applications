@@ -84,7 +84,3 @@ print(" ▶", apply_twice(shout, "echo"), "\n")
 doubles = list(map(lambda x: x * 2, [1, 2, 3, 4]))
 print("Lambda with map():")
 print(" ▶ doubles =", doubles, "\n")
-
-# 10) Wrap-up prompt
-print(
-    "✅ End of Lesson 2.3 demo. Try defining your own functions, experimenting with args, scope, and returning values!")
